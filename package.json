@@ -32,7 +32,7 @@
         "chalk": "^5.0.1",
         "commander": "^9.2.0",
         "conf": "^10.1.2",
-        "configstore": "3.1.5",
+        "configstore": "6.0.0",
         "enquirer": "^2.3.6",
         "hono": "^3.2.5",
         "moment": "^2.29.3",
